@@ -9,9 +9,9 @@ body {
 }
 
 .container {
-	max-width: 1190px;
-	margin: 120px 120px;
-	padding: 0 135px;
+	max-width: 821px;
+	margin: 0 auto;
+	padding: 120px 0;
 }
 
 .container h1 {
